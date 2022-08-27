@@ -14,6 +14,5 @@ public class Task1 {
         System.out.println("d= " + d);
         System.out.println("g= " + g);
         System.out.println("Pig= " +  pig);
-
     }
 }
