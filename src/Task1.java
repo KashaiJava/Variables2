@@ -13,6 +13,6 @@ public class Task1 {
         System.out.println("a= " + a);
         System.out.println("d= " + d);
         System.out.println("g= " + g);
-        System.out.println("Pig= " + pig);
+        System.out.println("Pig= " +  pig);
     }
 }
